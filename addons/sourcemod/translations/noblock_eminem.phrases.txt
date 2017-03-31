@@ -1,0 +1,26 @@
+"Phrases"
+{
+	"NoBlock On"
+	{
+		"cze"			"Nyní můžeš procházet přeš spoluhráče"
+		"sk"			"Nyní můžeš procházet přeš spoluhráče"
+	}
+	"NoBlock Off"
+	{
+		"cze"			"Nyní nemůžeš procházet přeš spoluhráče"
+		"sk"			"Nyní nemůžeš procházet přeš spoluhráče"
+
+	}
+	"Zakazany prikaz pro T"
+	{
+		"cze"			"Teroristi nemohou použít tento příkaz"
+		"sk"			"Teroristi nemohou použít tento příkaz"
+
+	}
+	"jsi mrtvy"
+	{
+		"cze"			"Mrtví nemohou použít tento příkaz"
+		"sk"			"Mrtví nemohou použít tento příkaz"
+
+	}
+}
